@@ -1,2 +1,1 @@
-# DataStructure
- 
+자료구조 파이썬 코드
